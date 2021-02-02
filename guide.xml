@@ -36,12 +36,12 @@
     <url>http://www.a1.hr</url>
   </channel>
   <channel id="hrt4">
-    <display-name lang="hr">HRT 4</display-name>
+    <display-name lang="ru">HRT 4</display-name>
     <icon src="https://a1.hr/var/ezflow_site/storage/images/televizija/htv4_hd/72965-1-cro-HR/htv4_hd.png" />
     <url>http://www.a1.hr</url>
   </channel>
   <channel id="rtlliving">
-    <display-name lang="hr">RTL Living</display-name>
+    <display-name lang="ru">RTL Living</display-name>
     <icon src="https://a1.hr/var/ezflow_site/storage/images/televizija/rtl_living/1419-12-cro-HR/rtl_living.png" />
     <url>http://www.a1.hr</url>
   </channel>
@@ -51,12 +51,12 @@
     <url>http://www.a1.hr</url>
   </channel>
   <channel id="rtlcrime">
-    <display-name lang="hr">RTL Crime</display-name>
+    <display-name lang="ru">RTL Crime</display-name>
     <icon src="https://a1.hr/var/ezflow_site/storage/images/televizija/rtl_crime/51780-5-cro-HR/rtl_crime.png" />
     <url>http://www.a1.hr</url>
   </channel>
   <channel id="rtladria">
-    <display-name lang="hr">RTL Adria</display-name>
+    <display-name lang="ru">RTL Adria</display-name>
     <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20200122/000200/XTV100004661/db91f35a-de57-4b66-88eb-1a7c30aa4c25.png" />
     <url>http://www.maxtv.hr</url>
   </channel>
